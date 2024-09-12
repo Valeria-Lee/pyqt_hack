@@ -1,0 +1,14 @@
+
+<RCC>
+<qresource>
+<file>Schedule_maker.qmlproject</file>
+<file>Schedule_maker/Constants.qml</file>
+<file>Schedule_maker/DirectoryFontLoader.qml</file>
+<file>Schedule_maker/EventListModel.qml</file>
+<file>Schedule_maker/EventListSimulator.qml</file>
+<file>Schedule_maker/qmldir</file>
+<file>Schedule_makerContent/App.qml</file>
+<file>Schedule_makerContent/Screen01.ui.qml</file>
+<file>qtquickcontrols2.conf</file>
+</qresource>
+</RCC>
